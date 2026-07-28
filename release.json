@@ -1,4 +1,7 @@
 {
   "version": "0.1.0",
-  "download_url": "https://github.com/timncox/schwung-work-in/releases/download/v0.1.0/work-in-module.tar.gz"
+  "download_url": "https://github.com/timncox/schwung-work/releases/download/v0.1.0/work-in-module.tar.gz",
+  "name": "Work In",
+  "description": "The same twenty FX machines on the live input, loaded into a chain slot as the source",
+  "repo_url": "https://github.com/timncox/schwung-work"
 }
