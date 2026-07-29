@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
-  "download_url": "https://github.com/timncox/schwung-work/releases/download/v0.5.0/work-in-module.tar.gz",
+  "version": "0.7.0",
+  "download_url": "https://github.com/timncox/schwung-work/releases/download/v0.7.0/work-in-module.tar.gz",
   "name": "Work In",
-  "description": "The same twenty-one FX machines on the live input, with feedback protection",
+  "description": "The same twenty-six machines on the live input, with feedback protection",
   "repo_url": "https://github.com/timncox/schwung-work"
 }
